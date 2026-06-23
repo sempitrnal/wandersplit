@@ -19,12 +19,12 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Wandersplit — Travel Budget Tracker",
+  title: "Laagan — Travel Budget Tracker",
   description: "Track, split and share travel expenses with your group.",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
-    title: "Wandersplit",
+    title: "Laagan",
     statusBarStyle: "black-translucent",
   },
   icons: {

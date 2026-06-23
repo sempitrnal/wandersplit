@@ -74,9 +74,7 @@ export default function ShareModal({
               <p className="text-3xl sm:text-4xl font-bold tracking-[0.3em] text-ocean-dark font-mono">
                 {tripCode}
               </p>
-              <p className="text-xs text-muted mt-1">
-                Enter at Wandersplit to join
-              </p>
+              <p className="text-xs text-muted mt-1">Enter at Laagan to join</p>
             </div>
           </div>
 
@@ -95,7 +93,7 @@ export default function ShareModal({
                     Copy trip code
                   </p>
                   <p className="text-xs text-muted">
-                    Friends enter this at wandersplit.app
+                    Friends enter this at laagan.app
                   </p>
                 </div>
               </div>

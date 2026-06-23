@@ -264,7 +264,7 @@ export default function LandingScreen() {
             <span className="text-3xl">✈️</span>
           </div>
           <h1 className="font-display text-4xl sm:text-6xl font-bold text-white mb-3 tracking-tight">
-            Wandersplit
+            Laagan
           </h1>
           <p className="text-white/70 text-base sm:text-lg max-w-sm mx-auto leading-relaxed px-2">
             Track, split & settle travel expenses with your crew — in real time.

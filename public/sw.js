@@ -1,4 +1,4 @@
-const CACHE_NAME = "wandersplit-v1";
+const CACHE_NAME = "laagan-v1";
 const urlsToCache = ["/", "/manifest.json", "/icon-192.svg", "/icon-512.svg"];
 
 self.addEventListener("install", (event) => {
